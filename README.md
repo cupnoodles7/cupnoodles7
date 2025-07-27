@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Greetings,<br>🎓This is akriti, a final year Computer Science and Design undergrad<br>🔭 I’m currently working on<br>      Building cloud-deployable AI systems for inference benchmarking, NLP classification, and accessibility tech, while testing the backend development waters.<br>🤝 I’m looking to collaborate on<br>      AI/ML projects involving real-world deployment, cloud-native architecture, LLM applications, or accessible technology.<br>🤲 I’m looking for help with<br>      Optimizing model inference for low-resource devices, contributing to open-source MLOps tools, and scaling AI workflows on multi-cloud platforms.<br>🌱 I’m currently learning<br>      ~ Backend development frameworks like Flask and Django<br>      ~ MLOps workflows using Docker, CI/CD, and monitoring tools<br>      ~ System design patterns for AI-first backends and microservices<br>⚡ Fun fact<br>      I’m a writer and I deeply care about rats and feel strongly about their antagonization in mainstream media (I’m beings serious)
 
 
